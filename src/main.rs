@@ -1,4 +1,3 @@
-
 // this def is in the std lib
 enum Option<T> {
     Some(T),
